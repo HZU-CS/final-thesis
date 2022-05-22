@@ -5,3 +5,6 @@
 
 ## 往年学生代表作品
 - [2017级陈庆辉](https://github.com/circle-hotaru/Dalaodaidaiwo-forum)
+
+## 超过10位指导学生的特殊情况
+- [特殊情况](./2018级毕设/exception.md)
